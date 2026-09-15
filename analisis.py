@@ -6,3 +6,6 @@ print("\n--- Resultados del analisis ---")
  
 def maximo(datos): 
     return max(datos) 
+ 
+def minimo(datos): 
+    return min(datos) 
