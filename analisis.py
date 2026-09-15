@@ -18,3 +18,6 @@ def suma(datos):
  
 def promedio(datos): 
     return sum(datos) / len(datos) 
+ 
+def conteo(datos): 
+    return len(datos) 
