@@ -15,3 +15,6 @@ def rango(datos):
  
 def suma(datos): 
     return sum(datos) 
+ 
+def promedio(datos): 
+    return sum(datos) / len(datos) 
