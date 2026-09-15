@@ -12,3 +12,12 @@ def minimo(datos):
  
 def rango(datos): 
     return maximo(datos) - minimo(datos) 
+ 
+def suma(datos): 
+    return sum(datos) 
+ 
+def promedio(datos): 
+    return sum(datos) / len(datos) 
+ 
+def conteo(datos): 
+    return len(datos) 
