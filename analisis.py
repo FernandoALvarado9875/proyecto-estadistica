@@ -9,3 +9,6 @@ def maximo(datos):
  
 def minimo(datos): 
     return min(datos) 
+ 
+def rango(datos): 
+    return maximo(datos) - minimo(datos) 
